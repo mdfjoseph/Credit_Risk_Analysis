@@ -22,7 +22,7 @@ generate a confusion matrix, and generate a classification report.
 
 1.  Accuracy Score of Model:  0.6494837053958125
 2.  Precision:  High_risk loans are low (.01) and Low_risk loans are high (1.00)
-3.  Recall:  High_risk is .66 / Low_risk is .67
+3.  Recall:  High_risk is .63 / Low_risk is .67
 4.  F1:  High_risk is .02 / Low_risk is .80
 
 #### SMOTE Oversampling Results
